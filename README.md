@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Ghaliensita/Ghaliensita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Stephany, I'm a little bit of a lot things... Graphic design, digital animator, visual producer, tattooer, content creator, and more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Skills
+
+• Blender 🎨
+
+• Unity student
+
+• Photoshop, Illustrator, Premiere Pro, After Effects, Lightroom
