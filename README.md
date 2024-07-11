@@ -10,7 +10,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ghaliensita?style=social)](https://twitter.com/Ghaliensita)
 
 
-También conocida como "Ghalien" o "Ghaliensita". Soy tatuadora y streamer. Además hago arte 3D, edición de video, diseño gráfico, emotes, badges y algunas cosas más... Podrás encontrar en mi [página web](https://ghaliensita.github.io/Ghaliensita_site/index.html) algo de mis trabajos, tanto universitarios como trabajos a empresas y más.
+También conocida como "Ghalien" o "Ghaliensita". Soy tatuadora y streamer. Además hago arte 3D, edición de video, diseño gráfico, emotes, badges y algunas cosas más... Podrás encontrar en mi [página web](https://ghaliensita.github.io/Ghaliensita_site/index.html) algo de mis trabajos, tanto universitarios como trabajos a empresas nacionales e internacionales y más...
 
 
 
