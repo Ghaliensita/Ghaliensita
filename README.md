@@ -33,7 +33,7 @@ También conocida como "Ghalien" o "Ghaliensita". Soy tatuadora y streamer. Adem
 
 [![Email](https://raw.githubusercontent.com/Ghaliensita/GhaliIcons/main/Ghali-icons/png/25x/Ghali-Email.png)](mailto:ghalienpower@gmail.com)  Podrás contactarme por correo desde este sitio
 
-[![PayPal](https://raw.githubusercontent.com/Ghaliensita/GhaliIcons/main/Ghali-icons/png/25x/Ghali-PayPal.png)](https://www.paypal.com/donate/?hosted_button_id=RZGTS9JNDSU58)  Aquí puedes contribuír para continuar subiendo contenido (PayPal)
+[![PayPal](https://raw.githubusercontent.com/Ghaliensita/GhaliIcons/main/Ghali-icons/png/25x/Ghali-PayPal.png)](https://streamelements.com/ghaliensita/tip)  Aquí puedes contribuír para continuar subiendo contenido (PayPal)
 
 [![BuyMeACoffee](https://raw.githubusercontent.com/Ghaliensita/GhaliIcons/main/Ghali-icons/png/25x/Ghali-BuyMeACoffee.png)](https://buymeacoffee.com/ghaliensita)  Aquí puedes invitarme a un sushi (Coffee)
 
