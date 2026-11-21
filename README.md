@@ -43,5 +43,5 @@ También conocida como "Ghalien" o "Ghaliensita". Soy tatuadora (o lo era, antes
 
 ## Website:
 
-[https://ghaliensita.github.io/Ghaliensita_site/index.html](https://ghaliensita.github.io/)
+[https://ghaliensita.github.io/](https://ghaliensita.github.io/)
 
